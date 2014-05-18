@@ -1,11 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Sample Application for the ruby on rails tutorial.
 
 Things you may want to cover:
 
 * Ruby version
+
+ruby 2.1.1p76 (2014-02-24 revision 45161) [i686-linux]
 
 * System dependencies
 
